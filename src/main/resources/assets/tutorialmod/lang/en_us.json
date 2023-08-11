@@ -5,5 +5,10 @@
   "block.tutorialmod.ruby_block": "Block of Rube",
   "block.tutorialmod.raw_ruby_block": "Raw Rubes Block",
 
+  "block.tutorialmod.ruby_ore": "Ore that is Rubies in the Ground",
+  "block.tutorialmod.nether_ruby_ore": "Ore that is Rubies in the Nether",
+  "block.tutorialmod.end_stone_ruby_ore": "Ore that is Rubies in the End",
+  "block.tutorialmod.deepslate_ruby_ore": "Ore that is Rubies far below the Ground",
+
   "itemgroup.ruby": "Ruby Group"
 }
